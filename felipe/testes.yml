@@ -1,0 +1,155 @@
+ 0.848 +/- 0.000, between 0.848 and 0.848
+k2 cross validation: 0.690 +/- 0.016, between 0.706 and 0.674
+k3 cross validation: 0.749 +/- 0.044, between 0.807 and 0.702
+k5 cross validation: 0.725 +/- 0.100, between 0.794 and 0.529
+k10 cross validation: 0.731 +/- 0.152, between 0.941 and 0.412
+k20 cross validation: 0.735 +/- 0.163, between 1.000 and 0.333
+k30 cross validation: 0.753
+
+
+0.860 +/- 0.000, between 0.860 and 0.860
+k2 cross validation: 0.702 +/- 0.016, between 0.718 and 0.686
+k3 cross validation: 0.772 +/- 0.052, between 0.842 and 0.719
+k5 cross validation: 0.731 +/- 0.071, between 0.853 and 0.647
+k10 cross validation: 0.737 +/- 0.114, between 0.941 and 0.588
+k20 cross validation: 0.740 +/- 0.179, between 1.000 and 0.333
+k30 cross validation: 0.736 +/-
+
+
+
+Pregnancies
+
+k1 cross validation: 0.840 +/- 0.000, between 0.840 and 0.840
+k2 cross validation: 0.724 +/- 0.008, between 0.732 and 0.716
+k3 cross validation: 0.742 +/- 0.030, between 0.778 and 0.704
+k5 cross validation: 0.761 +/- 0.092, between 0.879 and 0.606
+k10 cross validation: 0.747 +/- 0.135, between 0.941 and 0.500
+k20 cross validation: 0.771 +/- 0.183, between 1.000 and 0.375
+k30 cross validation: 0.759 +/- 0.192, between 1.000 and 0.400
+
+
+W/0 preg
+
+k1 cross validation: 0.848 +/- 0.000, between 0.848 and 0.848
+k2 cross validation: 0.690 +/- 0.016, between 0.706 and 0.674
+k3 cross validation: 0.749 +/- 0.044, between 0.807 and 0.702
+k5 cross validation: 0.725 +/- 0.100, between 0.794 and 0.529
+k10 cross validation: 0.731 +/- 0.152, between 0.941 and 0.412
+k20 cross validation: 0.735 +/- 0.163, between 1.000 and 0.333
+k30 cross validation: 0.753 +/- 0.195, between 1.000 and 0.333
+
+
+Using insulin
+
+k1 cross validation: 0.825 +/- 0.000, between 0.825 and 0.825
+k2 cross validation: 0.672 +/- 0.037, between 0.709 and 0.635
+k3 cross validation: 0.702 +/- 0.014, between 0.719 and 0.684
+k5 cross validation: 0.695 +/- 0.104, between 0.829 and 0.559
+k10 cross validation: 0.684 +/- 0.107, between 0.778 and 0.471
+k20 cross validation: 0.697 +/- 0.169, between 1.000 and 0.333
+k30 cross validation: 0.694 +/- 0.171, between 1.000 and 0.333
+
+
+clustering insulin
+
+k1 cross validation: 0.854 +/- 0.000, between 0.854 and 0.854
+k2 cross validation: 0.684 +/- 0.010, between 0.694 and 0.674
+k3 cross validation: 0.754 +/- 0.038, between 0.807 and 0.719
+k5 cross validation: 0.730 +/- 0.105, between 0.829 and 0.529
+k10 cross validation: 0.736 +/- 0.157, between 0.941 and 0.412
+k20 cross validation: 0.735 +/- 0.193, between 1.000 and 0.222
+k30 cross validation: 0.751 +/- 0.222, between 1.000 and 0.167
+
+k1 cross validation: 0.848 +/- 0.000, between 0.848 and 0.848
+k2 cross validation: 0.731 +/- 0.045, between 0.776 and 0.686
+k3 cross validation: 0.754 +/- 0.025, between 0.789 and 0.737
+k5 cross validation: 0.778 +/- 0.088, between 0.882 and 0.618
+k10 cross validation: 0.766 +/- 0.101, between 0.941 and 0.588
+k20 cross validation: 0.765 +/- 0.167, between 1.000 and 0.444
+k30 cross validation: 0.774 +/- 0.170, between 1.000 and 0.333
+
+
+mediana
+
+k1 cross validation: 0.848 +/- 0.000, between 0.848 and 0.848
+k2 cross validation: 0.731 +/- 0.045, between 0.776 and 0.686
+k3 cross validation: 0.754 +/- 0.025, between 0.789 and 0.737
+k5 cross validation: 0.778 +/- 0.088, between 0.882 and 0.618
+k10 cross validation: 0.766 +/- 0.101, between 0.941 and 0.588
+k20 cross validation: 0.765 +/- 0.167, between 1.000 and 0.444
+k30 cross validation: 0.774 +/- 0.170, between 1.000 and 0.333
+
+
+k1 cross validation: 0.848 +/- 0.000, between 0.848 and 0.848
+k2 cross validation: 0.731 +/- 0.045, between 0.776 and 0.686
+k3 cross validation: 0.754 +/- 0.025, between 0.789 and 0.737
+k5 cross validation: 0.778 +/- 0.088, between 0.882 and 0.618
+k10 cross validation: 0.766 +/- 0.101, between 0.941 and 0.588
+k20 cross validation: 0.765 +/- 0.167, between 1.000 and 0.444
+k30 cross validation: 0.774 +/- 0.170, between 1.000 and 0.333
+
+
+w/0 skinthick
+
+k1 cross validation: 0.854 +/- 0.000, between 0.854 and 0.854
+k2 cross validation: 0.690 +/- 0.016, between 0.706 and 0.674
+k3 cross validation: 0.760 +/- 0.046, between 0.825 and 0.719
+k5 cross validation: 0.730 +/- 0.105, between 0.829 and 0.529
+k10 cross validation: 0.736 +/- 0.155, between 0.941 and 0.412
+k20 cross validation: 0.740 +/- 0.171, between 1.000 and 0.333
+k30 cross validation: 0.758 +/- 0.201, between 1.000 and 0.333
+
+
+w preg
+
+
+k1 cross validation: 0.859 +/- 0.000, between 0.859 and 0.859
+k2 cross validation: 0.718 +/- 0.014, between 0.732 and 0.704
+k3 cross validation: 0.742 +/- 0.030, between 0.778 and 0.704
+k5 cross validation: 0.767 +/- 0.090, between 0.879 and 0.606
+k10 cross validation: 0.754 +/- 0.130, between 0.941 and 0.500
+k20 cross validation: 0.771 +/- 0.191, between 1.000 and 0.375
+k30 cross validation: 0.766 +/- 0.182, between 1.000 and 0.400
+
+k1 cross validation: 0.871 +/- 0.000, between 0.871 and 0.871
+k2 cross validation: 0.718 +/- 0.002, between 0.720 and 0.716
+k3 cross validation: 0.755 +/- 0.016, between 0.778 and 0.741
+k5 cross validation: 0.761 +/- 0.115, between 0.879 and 0.545
+k10 cross validation: 0.766 +/- 0.129, between 0.941 and 0.500
+k20 cross validation: 0.777 +/- 0.161, between 1.000 and 0.375
+k30 cross validation: 0.778 +/- 0.177, between 1.000 and 0.333
+
+k1 cross validation: 0.867 +/- 0.000, between 0.867 and 0.867
+k2 cross validation: 0.696 +/- 0.026, between 0.722 and 0.670
+k3 cross validation: 0.763 +/- 0.041, between 0.800 and 0.705
+k5 cross validation: 0.762 +/- 0.076, between 0.811 and 0.611
+k10 cross validation: 0.784 +/- 0.095, between 0.889 and 0.611
+k20 cross validation: 0.762 +/- 0.151, between 1.000 and 0.444
+k30 cross validation: 0.773 +/- 0.190, between 1.000 and 0.333
+
+k1 cross validation: 0.878 +/- 0.000, between 0.878 and 0.878
+k2 cross validation: 0.674 +/- 0.018, between 0.692 and 0.656
+k3 cross validation: 0.718 +/- 0.042, between 0.770 and 0.667
+k5 cross validation: 0.685 +/- 0.050, between 0.757 and 0.611
+k10 cross validation: 0.696 +/- 0.126, between 0.944 and 0.500
+k20 cross validation: 0.691 +/- 0.194, between 1.000 and 0.333
+k30 cross validation: 0.702 +/- 0.208, between 1.000 and 0.167
+
+
+k1 cross validation: 0.873 +/- 0.000, between 0.873 and 0.873
+k2 cross validation: 0.679 +/- 0.013, between 0.692 and 0.667
+k3 cross validation: 0.712 +/- 0.043, between 0.770 and 0.667
+k5 cross validation: 0.696 +/- 0.054, between 0.757 and 0.611
+k10 cross validation: 0.713 +/- 0.122, between 0.944 and 0.500
+k20 cross validation: 0.702 +/- 0.183, between 1.000 and 0.333
+k30 cross validation: 0.713 +/- 0.201, between 1.000 and 0.333
+
+==
+
+k1 cross validation: 0.896 +/- 0.000, between 0.896 and 0.896
+k2 cross validation: 0.712 +/- 0.008, between 0.720 and 0.704
+k3 cross validation: 0.742 +/- 0.028, between 0.782 and 0.722
+k5 cross validation: 0.724 +/- 0.042, between 0.788 and 0.667
+k10 cross validation: 0.734 +/- 0.098, between 0.941 and 0.625
+k20 cross validation: 0.741 +/- 0.180, between 1.000 and 0.375
+k30 cross validation: 0.731 +/- 0.213, between 1.000 and 0.200
